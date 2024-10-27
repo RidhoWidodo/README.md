@@ -48,7 +48,7 @@ Berikut adalah flowchart nya
   
 5. Hasil Output  print(f"bilangan terbesar adalah: {terbesar}")
 
-   ![ss hasil flowchart kedua](https://github.com/user-attachments/assets/e6792381-ba40-48c2-89c4-9241e68bfcaa)
+   ![Screenshot 2024-10-26 212607](https://github.com/user-attachments/assets/02b5f3a9-9814-4903-b81f-4ba53b827624)
 
    - Setelah semua bilangan dimasukkan dan dibandingkan, program akan mencetak bilangan terbesar yang ditemukan.
   
