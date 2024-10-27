@@ -23,7 +23,7 @@ Pengguna diminta untuk memasukkan tiga bilangan satu per satu. Nilai yang dimasu
 # 2.) Buat codingan dari flowchart yang menentukan bilangan terbesar dari N bilangan yang diinputkan. untuk menentukan jumlah N, berikan masukkan angka 0
 Berikut adalah flowchart nya
 ![flowchart 2](https://github.com/user-attachments/assets/1c718c70-aec9-4f29-a92c-f1e6ed0088d7)
-![ss codingan flowchart kedua](https://github.com/user-attachments/assets/e6f523af-5b63-44cf-87e3-a3bbdbf3f74d)
+![Screenshot 2024-10-26 211441](https://github.com/user-attachments/assets/950b8e60-1bf8-4e89-99ed-4d60b35c57ee)
 
 1. Inisialisasi Variabel  terbesar = float('-inf')
 
